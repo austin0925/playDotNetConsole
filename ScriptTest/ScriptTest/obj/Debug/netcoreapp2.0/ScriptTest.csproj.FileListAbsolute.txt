@@ -1,0 +1,11 @@
+D:\git\playDotNetConsole\ScriptTest\ScriptTest\bin\Debug\netcoreapp2.0\ScriptTest.deps.json
+D:\git\playDotNetConsole\ScriptTest\ScriptTest\bin\Debug\netcoreapp2.0\ScriptTest.runtimeconfig.json
+D:\git\playDotNetConsole\ScriptTest\ScriptTest\bin\Debug\netcoreapp2.0\ScriptTest.runtimeconfig.dev.json
+D:\git\playDotNetConsole\ScriptTest\ScriptTest\bin\Debug\netcoreapp2.0\ScriptTest.dll
+D:\git\playDotNetConsole\ScriptTest\ScriptTest\bin\Debug\netcoreapp2.0\ScriptTest.pdb
+D:\git\playDotNetConsole\ScriptTest\ScriptTest\obj\Debug\netcoreapp2.0\ScriptTest.csprojResolveAssemblyReference.cache
+D:\git\playDotNetConsole\ScriptTest\ScriptTest\obj\Debug\netcoreapp2.0\ScriptTest.csproj.CoreCompileInputs.cache
+D:\git\playDotNetConsole\ScriptTest\ScriptTest\obj\Debug\netcoreapp2.0\ScriptTest.AssemblyInfoInputs.cache
+D:\git\playDotNetConsole\ScriptTest\ScriptTest\obj\Debug\netcoreapp2.0\ScriptTest.AssemblyInfo.cs
+D:\git\playDotNetConsole\ScriptTest\ScriptTest\obj\Debug\netcoreapp2.0\ScriptTest.dll
+D:\git\playDotNetConsole\ScriptTest\ScriptTest\obj\Debug\netcoreapp2.0\ScriptTest.pdb
