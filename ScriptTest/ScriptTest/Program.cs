@@ -7,8 +7,12 @@ namespace ScriptTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var a = Console.ReadKey();
-            Console.WriteLine("asdf");
+            Console.ReadKey();
+
+            ThreadExample2.Go();
+            Console.ReadKey();
+
+
         }
     }
 }
