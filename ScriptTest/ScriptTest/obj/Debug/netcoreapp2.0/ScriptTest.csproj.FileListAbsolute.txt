@@ -1,3 +1,14 @@
+/Users/aus13/git/playDotNetConsole/ScriptTest/ScriptTest/bin/Debug/netcoreapp2.0/ScriptTest.deps.json
+/Users/aus13/git/playDotNetConsole/ScriptTest/ScriptTest/bin/Debug/netcoreapp2.0/ScriptTest.runtimeconfig.json
+/Users/aus13/git/playDotNetConsole/ScriptTest/ScriptTest/bin/Debug/netcoreapp2.0/ScriptTest.runtimeconfig.dev.json
+/Users/aus13/git/playDotNetConsole/ScriptTest/ScriptTest/bin/Debug/netcoreapp2.0/ScriptTest.dll
+/Users/aus13/git/playDotNetConsole/ScriptTest/ScriptTest/bin/Debug/netcoreapp2.0/ScriptTest.pdb
+/Users/aus13/git/playDotNetConsole/ScriptTest/ScriptTest/obj/Debug/netcoreapp2.0/ScriptTest.csprojResolveAssemblyReference.cache
+/Users/aus13/git/playDotNetConsole/ScriptTest/ScriptTest/obj/Debug/netcoreapp2.0/ScriptTest.csproj.CoreCompileInputs.cache
+/Users/aus13/git/playDotNetConsole/ScriptTest/ScriptTest/obj/Debug/netcoreapp2.0/ScriptTest.AssemblyInfoInputs.cache
+/Users/aus13/git/playDotNetConsole/ScriptTest/ScriptTest/obj/Debug/netcoreapp2.0/ScriptTest.AssemblyInfo.cs
+/Users/aus13/git/playDotNetConsole/ScriptTest/ScriptTest/obj/Debug/netcoreapp2.0/ScriptTest.dll
+/Users/aus13/git/playDotNetConsole/ScriptTest/ScriptTest/obj/Debug/netcoreapp2.0/ScriptTest.pdb
 D:\git\playDotNetConsole\ScriptTest\ScriptTest\bin\Debug\netcoreapp2.0\ScriptTest.deps.json
 D:\git\playDotNetConsole\ScriptTest\ScriptTest\bin\Debug\netcoreapp2.0\ScriptTest.runtimeconfig.json
 D:\git\playDotNetConsole\ScriptTest\ScriptTest\bin\Debug\netcoreapp2.0\ScriptTest.runtimeconfig.dev.json

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{05B5522E-7D37-48A8-925E-CDA362B8F51D}|Default">
+  <MonoDevelop.Ide.ItemProperties.ScriptTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScriptTest/ThreadExample.cs">
+    <Files>
+      <File FileName="ScriptTest/Program.cs" Line="1" Column="1" />
+      <File FileName="ScriptTest/ThreadExample.cs" Line="21" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

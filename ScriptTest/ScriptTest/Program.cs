@@ -4,7 +4,7 @@ namespace ScriptTest
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Go(string[] args)
         {
             Console.WriteLine("abc" ?? "abc");
             Console.WriteLine("abc" ?? "abC");
@@ -17,6 +17,7 @@ namespace ScriptTest
             ThreadExample2.Go();
             Console.ReadKey();
 
+            CQ_EnqueueDequeuePeek a = new CQ_EnqueueDequeuePeek();
 
         }
     }
